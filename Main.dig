@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>1</version>
+  <attributes>
+    <entry>
+      <string>shapeType</string>
+      <shapeType>LAYOUT</shapeType>
+    </entry>
+  </attributes>
+  <visualElements>
+    <visualElement>
+      <elementName>Counter:Address Register.dig</elementName>
+      <elementAttributes/>
+      <pos x="600" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Constant Register.dig</elementName>
+      <elementAttributes/>
+      <pos x="600" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tranfer Register.dig</elementName>
+      <elementAttributes/>
+      <pos x="480" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>GPR.dig</elementName>
+      <elementAttributes/>
+      <pos x="600" y="-200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Memory Bridge.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>shapeType</string>
+          <shapeType>LAYOUT</shapeType>
+        </entry>
+      </elementAttributes>
+      <pos x="480" y="-300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Memory.dig</elementName>
+      <elementAttributes/>
+      <pos x="480" y="-400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>ALU.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>shapeType</string>
+          <shapeType>LAYOUT</shapeType>
+        </entry>
+      </elementAttributes>
+      <pos x="960" y="-400"/>
+    </visualElement>
+  </visualElements>
+  <wires/>
+  <measurementOrdering/>
+</circuit>
