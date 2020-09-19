@@ -7,8 +7,12 @@
       <shapeType>LAYOUT</shapeType>
     </entry>
     <entry>
+      <string>Height</string>
+      <int>4</int>
+    </entry>
+    <entry>
       <string>Width</string>
-      <int>6</int>
+      <int>12</int>
     </entry>
   </attributes>
   <visualElements>
@@ -105,29 +109,25 @@
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
+          <string>Description</string>
+          <string>0: Load Bus
+1: Load Mem
+2: Assert Main</string>
+        </entry>
+        <entry>
           <string>Label</string>
-          <string>Load</string>
+          <string>Control</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>3</int>
         </entry>
         <entry>
           <string>InDefault</string>
           <value v="1" z="false"/>
         </entry>
       </elementAttributes>
-      <pos x="680" y="120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>A-Main</string>
-        </entry>
-        <entry>
-          <string>InDefault</string>
-          <value v="1" z="false"/>
-        </entry>
-      </elementAttributes>
-      <pos x="680" y="160"/>
+      <pos x="620" y="80"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -344,6 +344,24 @@
       <elementAttributes/>
       <pos x="1500" y="480"/>
     </visualElement>
+    <visualElement>
+      <elementName>Splitter</elementName>
+      <elementAttributes>
+        <entry>
+          <string>splitterSpreading</string>
+          <int>2</int>
+        </entry>
+        <entry>
+          <string>Input Splitting</string>
+          <string>3</string>
+        </entry>
+        <entry>
+          <string>Output Splitting</string>
+          <string>1,1,1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="660" y="80"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -441,6 +459,10 @@
     <wire>
       <p1 x="980" y="80"/>
       <p2 x="1020" y="80"/>
+    </wire>
+    <wire>
+      <p1 x="620" y="80"/>
+      <p2 x="660" y="80"/>
     </wire>
     <wire>
       <p1 x="980" y="400"/>

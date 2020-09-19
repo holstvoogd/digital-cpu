@@ -34,9 +34,3 @@ CTRL | Output
 
 Carry select
 Enable
-
-
-## Ideas
-
-Adder: Overflow mode select?
-

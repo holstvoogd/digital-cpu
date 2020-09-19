@@ -12,7 +12,7 @@
     </entry>
     <entry>
       <string>Width</string>
-      <int>6</int>
+      <int>12</int>
     </entry>
   </attributes>
   <visualElements>
@@ -403,57 +403,22 @@
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
-          <string>Label</string>
-          <string>Load</string>
+          <string>Description</string>
+          <string>0: Load
+1: Assert Main
+2: Assert LHS
+3: Assert RHS</string>
         </entry>
-        <entry>
-          <string>InDefault</string>
-          <value v="1" z="false"/>
-        </entry>
-      </elementAttributes>
-      <pos x="140" y="-20"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>A-Main</string>
+          <string>Control</string>
         </entry>
         <entry>
-          <string>InDefault</string>
-          <value v="1" z="false"/>
+          <string>Bits</string>
+          <int>4</int>
         </entry>
       </elementAttributes>
-      <pos x="140" y="20"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>A-LHS</string>
-        </entry>
-        <entry>
-          <string>InDefault</string>
-          <value v="1" z="false"/>
-        </entry>
-      </elementAttributes>
-      <pos x="140" y="60"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>A-RHS</string>
-        </entry>
-        <entry>
-          <string>InDefault</string>
-          <value v="1" z="false"/>
-        </entry>
-      </elementAttributes>
-      <pos x="140" y="100"/>
+      <pos x="100" y="-20"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -551,6 +516,24 @@
       <elementName>Ground</elementName>
       <elementAttributes/>
       <pos x="420" y="140"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Splitter</elementName>
+      <elementAttributes>
+        <entry>
+          <string>splitterSpreading</string>
+          <int>2</int>
+        </entry>
+        <entry>
+          <string>Input Splitting</string>
+          <string>4</string>
+        </entry>
+        <entry>
+          <string>Output Splitting</string>
+          <string>1*4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="140" y="-20"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -687,8 +670,12 @@
       <p2 x="460" y="80"/>
     </wire>
     <wire>
-      <p1 x="140" y="-20"/>
+      <p1 x="160" y="-20"/>
       <p2 x="180" y="-20"/>
+    </wire>
+    <wire>
+      <p1 x="100" y="-20"/>
+      <p2 x="140" y="-20"/>
     </wire>
     <wire>
       <p1 x="160" y="660"/>
@@ -715,7 +702,7 @@
       <p2 x="440" y="660"/>
     </wire>
     <wire>
-      <p1 x="140" y="20"/>
+      <p1 x="160" y="20"/>
       <p2 x="180" y="20"/>
     </wire>
     <wire>
@@ -799,7 +786,7 @@
       <p2 x="440" y="740"/>
     </wire>
     <wire>
-      <p1 x="140" y="100"/>
+      <p1 x="160" y="100"/>
       <p2 x="180" y="100"/>
     </wire>
     <wire>
@@ -931,7 +918,7 @@
       <p2 x="440" y="700"/>
     </wire>
     <wire>
-      <p1 x="140" y="60"/>
+      <p1 x="160" y="60"/>
       <p2 x="180" y="60"/>
     </wire>
     <wire>

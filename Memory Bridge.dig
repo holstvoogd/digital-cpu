@@ -24,7 +24,7 @@
           <string>MainBus</string>
         </entry>
       </elementAttributes>
-      <pos x="860" y="300"/>
+      <pos x="860" y="180"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -38,7 +38,7 @@
           <int>8</int>
         </entry>
       </elementAttributes>
-      <pos x="900" y="300"/>
+      <pos x="900" y="180"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -53,54 +53,6 @@
         </entry>
       </elementAttributes>
       <pos x="860" y="220"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>MemBridge-Assert</string>
-        </entry>
-        <entry>
-          <string>InDefault</string>
-          <value v="1" z="false"/>
-        </entry>
-      </elementAttributes>
-      <pos x="520" y="220"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>MemBridge-Dir</string>
-        </entry>
-        <entry>
-          <string>InDefault</string>
-          <value v="1" z="false"/>
-        </entry>
-      </elementAttributes>
-      <pos x="520" y="260"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
-          <string>MemBridge-Assert</string>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="220"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
-          <string>MemBridge-Dir</string>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="260"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -296,6 +248,65 @@
       </elementAttributes>
       <pos x="840" y="380"/>
     </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>0: Assert
+1: Load
+2: Dir
+3: Ack</string>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Control</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>4</int>
+        </entry>
+        <entry>
+          <string>InDefault</string>
+          <value v="1" z="false"/>
+        </entry>
+      </elementAttributes>
+      <pos x="440" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Splitter</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Input Splitting</string>
+          <string>4</string>
+        </entry>
+        <entry>
+          <string>Output Splitting</string>
+          <string>1*4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="480" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>MemBridge-Assert</string>
+        </entry>
+      </elementAttributes>
+      <pos x="540" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>MemBridge-Dir</string>
+        </entry>
+      </elementAttributes>
+      <pos x="540" y="260"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -355,8 +366,8 @@
       <p2 x="400" y="420"/>
     </wire>
     <wire>
-      <p1 x="520" y="260"/>
-      <p2 x="560" y="260"/>
+      <p1 x="500" y="260"/>
+      <p2 x="540" y="260"/>
     </wire>
     <wire>
       <p1 x="980" y="460"/>
@@ -399,8 +410,12 @@
       <p2 x="440" y="620"/>
     </wire>
     <wire>
-      <p1 x="860" y="300"/>
-      <p2 x="900" y="300"/>
+      <p1 x="500" y="240"/>
+      <p2 x="540" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="860" y="180"/>
+      <p2 x="900" y="180"/>
     </wire>
     <wire>
       <p1 x="980" y="500"/>
@@ -435,12 +450,12 @@
       <p2 x="440" y="660"/>
     </wire>
     <wire>
-      <p1 x="860" y="220"/>
-      <p2 x="900" y="220"/>
+      <p1 x="440" y="220"/>
+      <p2 x="480" y="220"/>
     </wire>
     <wire>
-      <p1 x="520" y="220"/>
-      <p2 x="560" y="220"/>
+      <p1 x="860" y="220"/>
+      <p2 x="900" y="220"/>
     </wire>
     <wire>
       <p1 x="980" y="380"/>

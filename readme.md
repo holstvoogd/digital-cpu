@@ -5,7 +5,8 @@ Based on James Sharman's work here: https://www.youtube.com/playlist?list=PLFhc0
 I have removed all LEDs and driver latches.
 
 TODO:
-- pipeline & control logic
-- ALU control
-- Bus control
+- Pipeline ROM programming
+- ALU LUT configuration
+- Bus control wiring
 - Clock & Reset
+- Break (what even is it?)
