@@ -7,6 +7,5 @@ I have removed all LEDs and driver latches.
 TODO:
 - Pipeline ROM programming
 - ALU LUT configuration
-- Bus control wiring
 - Clock & Reset
 - Break (what even is it?)
