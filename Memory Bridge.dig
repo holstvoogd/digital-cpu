@@ -292,20 +292,20 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>MemBridge-Assert</string>
+          <string>MemBridge-Dir</string>
         </entry>
       </elementAttributes>
-      <pos x="540" y="240"/>
+      <pos x="540" y="260"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>MemBridge-Dir</string>
+          <string>MemBridge-Assert</string>
         </entry>
       </elementAttributes>
-      <pos x="540" y="260"/>
+      <pos x="540" y="220"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -410,10 +410,6 @@
       <p2 x="440" y="620"/>
     </wire>
     <wire>
-      <p1 x="500" y="240"/>
-      <p2 x="540" y="240"/>
-    </wire>
-    <wire>
       <p1 x="860" y="180"/>
       <p2 x="900" y="180"/>
     </wire>
@@ -456,6 +452,10 @@
     <wire>
       <p1 x="860" y="220"/>
       <p2 x="900" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="500" y="220"/>
+      <p2 x="540" y="220"/>
     </wire>
     <wire>
       <p1 x="980" y="380"/>
