@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Digital by H.Neemann -->
-<!-- created: Sat Sep 19 18:10:11 CEST 2020 -->
+<!-- created: Tue Sep 29 17:59:50 CEST 2020 -->
 
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    width="264.15mm"
-   height="216.75mm"
-   viewBox="-3196 -1451 1761 1445">
+   height="215.25mm"
+   viewBox="-3196 -1451 1761 1435">
 <g stroke-linecap="square">
 <path d="M -2380,-900 L -2360,-900" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2520,-900 L -2500,-900" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -27,7 +27,6 @@
 <path d="M -2180,-120 L -2180,-260 L -2120,-260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1560,-260 L -1540,-260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1780,-120 L -1780,-260 L -1720,-260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -2840,-1220 L -2800,-1220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2780,-1220 L -2740,-1220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1580,-780 L -1560,-780" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1720,-780 L -1700,-780" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -43,14 +42,13 @@
 <path d="M -1560,-460 L -1540,-460 L -1540,-480" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2440,-1360 L -2420,-1360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2780,-1360 L -2740,-1360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -2840,-1360 L -2800,-1360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2940,-340 L -2920,-340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2760,-340 L -2520,-340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1960,-340 L -1720,-340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2360,-340 L -2120,-340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -3060,-20 L -2620,-20 L -2620,-100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2260,-20 L -1820,-20 L -1820,-100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -3120,-20 L -3080,-20" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -2320,-20 L -2280,-20" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1580,-980 L -1560,-980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1720,-980 L -1700,-980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1980,-980 L -1960,-980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -101,9 +99,10 @@
 <path d="M -2380,-1060 L -2360,-1060 L -2360,-1080" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2780,-1060 L -2760,-1060 L -2760,-1080" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2920,-1060 L -2900,-1060" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -2840,-1320 L -2800,-1320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2780,-1320 L -2740,-1320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -2440,-1320 L -2420,-1320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -2460,-1320 L -2420,-1320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -2840,-1260 L -2800,-1260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -2780,-1260 L -2740,-1260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -3060,-620 L -2720,-620 L -2720,-540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2260,-620 L -1920,-620 L -1920,-540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2320,-620 L -2280,-620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -120,9 +119,8 @@
 <path d="M -2760,-300 L -2520,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1960,-300 L -1720,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2360,-300 L -2120,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -2780,-1260 L -2740,-1260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -2440,-1200 L -2420,-1200" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2400,-1200 L -2380,-1200" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -2460,-1200 L -2420,-1200" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2940,-160 L -2940,-180 L -2920,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2760,-180 L -2660,-180 L -2660,-520" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2540,-160 L -2540,-180 L -2520,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -140,6 +138,8 @@
 <path d="M -1980,-820 L -1960,-820" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2120,-820 L -2100,-820" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2440,-1400 L -2420,-1400" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -3120,-60 L -3080,-60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -2320,-60 L -2280,-60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -3060,-60 L -3020,-60 L -3020,-100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2260,-60 L -2220,-60 L -2220,-100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2760,-380 L -2740,-380" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -179,14 +179,6 @@
 <path d="M -2120,-460 L -2140,-460 L -2140,-500 L -1900,-500 L -1900,-520" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2520,-460 L -2540,-460 L -2540,-500 L -2300,-500 L -2300,-520" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -2920,-460 L -2940,-460 L -2940,-500 L -2700,-500 L -2700,-520" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -2510,-680 L -2530,-680" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M -2910,-680 L -2930,-680" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M -2110,-680 L -2130,-680" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M -1710,-680 L -1730,-680" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M -2930,-160 L -2950,-160" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M -2530,-160 L -2550,-160" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M -2130,-160 L -2150,-160" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M -1730,-160 L -1750,-160" stroke="#000000" stroke-width="6.0" fill="none"/>
 <path d="M -2360,-1020 L -2350,-1020 L -2340,-1020" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2360,-980 L -2350,-980" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2360,-940 L -2350,-940" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -251,19 +243,19 @@
 <path d="M -2120,-820 L -2130,-820" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2120,-780 L -2130,-780" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2120,-740 L -2130,-740" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M -2780,-1320 L -2790,-1320 L -2800,-1320" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M -2780,-1360 L -2790,-1360" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M -2780,-1220 L -2790,-1220 L -2800,-1220" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M -2780,-1260 L -2790,-1260" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -2780,-1360 L -2790,-1360 L -2800,-1360" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -2780,-1320 L -2790,-1320" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -2780,-1260 L -2790,-1260 L -2800,-1260" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -2780,-1220 L -2790,-1220" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2760,-1086 L -2760,-1080" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2360,-1086 L -2360,-1080" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -1960,-1086 L -1960,-1080" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -1560,-1086 L -1560,-1080" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2740,-486 L -2740,-480" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M -3060,-20 L -3070,-20 L -3080,-20" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M -3060,-60 L -3070,-60" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M -2260,-20 L -2270,-20 L -2280,-20" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M -2260,-60 L -2270,-60" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -3060,-60 L -3070,-60 L -3080,-60" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -3060,-20 L -3070,-20" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -2260,-60 L -2270,-60 L -2280,-60" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -2260,-20 L -2270,-20" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2720,-540 L -2720,-530 L -2720,-520" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2700,-520 L -2700,-530" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2680,-520 L -2680,-530" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -310,6 +302,14 @@
 <path d="M -2420,-1360 L -2410,-1360" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2420,-1400 L -2410,-1400" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M -2420,-1440 L -2410,-1440" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -2510,-680 L -2530,-680" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M -2910,-680 L -2930,-680" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M -2110,-680 L -2130,-680" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M -1710,-680 L -1730,-680" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M -2930,-160 L -2950,-160" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M -2530,-160 L -2550,-160" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M -2130,-160 L -2150,-160" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M -1730,-160 L -1750,-160" stroke="#000000" stroke-width="6.0" fill="none"/>
 <g>
 </g>
 <g>
@@ -483,10 +483,10 @@
 <circle cx="-2740.0" cy="-1020.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
-<circle cx="-2856.0" cy="-1220.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
-<circle cx="-2856.0" cy="-1220.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
-<text text-anchor="end" x="-2885.0" y="-1211.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">ADDR</tspan></text>
-<circle cx="-2840.0" cy="-1220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-2856.0" cy="-1260.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="-2856.0" cy="-1260.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="-2885.0" y="-1251.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">ADDR</tspan></text>
+<circle cx="-2840.0" cy="-1260.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <text text-anchor="end" x="-2542.0" y="-1023.0" fill="#808080" style="font-size:12px">0-7</text>
@@ -753,10 +753,10 @@
 <circle cx="-1940.0" cy="-1020.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
-<circle cx="-2856.0" cy="-1320.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
-<circle cx="-2856.0" cy="-1320.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
-<text text-anchor="end" x="-2885.0" y="-1311.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">XFER</tspan></text>
-<circle cx="-2840.0" cy="-1320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-2856.0" cy="-1360.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="-2856.0" cy="-1360.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="-2885.0" y="-1351.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">XFER</tspan></text>
+<circle cx="-2840.0" cy="-1360.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <text text-anchor="end" x="-1742.0" y="-1023.0" fill="#808080" style="font-size:12px">0-7</text>
@@ -807,13 +807,13 @@
 <circle cx="-2380.0" cy="-1200.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
-<text text-anchor="start" x="-2778.0" y="-1308.0" fill="#808080" style="font-size:12px">0-7</text>
-<text text-anchor="start" x="-2778.0" y="-1348.0" fill="#808080" style="font-size:12px">8-15</text>
-<text text-anchor="end" x="-2802.0" y="-1308.0" fill="#808080" style="font-size:12px">0-15</text>
-<path d="M -2788,-1318 L -2792,-1318 L -2792,-1362 L -2788,-1362 Z" stroke="#000000" stroke-width="4.0" fill="#000000" fill-opacity="1.0"/>
-<circle cx="-2780.0" cy="-1320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<text text-anchor="start" x="-2778.0" y="-1363.0" fill="#808080" style="font-size:12px">0-7</text>
+<text text-anchor="start" x="-2778.0" y="-1323.0" fill="#808080" style="font-size:12px">8-15</text>
+<text text-anchor="end" x="-2802.0" y="-1363.0" fill="#808080" style="font-size:12px">0-15</text>
+<path d="M -2788,-1362 L -2792,-1362 L -2792,-1318 L -2788,-1318 Z" stroke="#000000" stroke-width="4.0" fill="#000000" fill-opacity="1.0"/>
 <circle cx="-2780.0" cy="-1360.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-<circle cx="-2800.0" cy="-1320.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="-2780.0" cy="-1320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-2800.0" cy="-1360.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
 <path d="M -2740,-1260 L -2726,-1252 L -2726,-1268 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -826,13 +826,13 @@
 <circle cx="-2740.0" cy="-1220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<text text-anchor="start" x="-2778.0" y="-1208.0" fill="#808080" style="font-size:12px">0-7</text>
-<text text-anchor="start" x="-2778.0" y="-1248.0" fill="#808080" style="font-size:12px">8-15</text>
-<text text-anchor="end" x="-2802.0" y="-1208.0" fill="#808080" style="font-size:12px">0-15</text>
-<path d="M -2788,-1218 L -2792,-1218 L -2792,-1262 L -2788,-1262 Z" stroke="#000000" stroke-width="4.0" fill="#000000" fill-opacity="1.0"/>
-<circle cx="-2780.0" cy="-1220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<text text-anchor="start" x="-2778.0" y="-1263.0" fill="#808080" style="font-size:12px">0-7</text>
+<text text-anchor="start" x="-2778.0" y="-1223.0" fill="#808080" style="font-size:12px">8-15</text>
+<text text-anchor="end" x="-2802.0" y="-1263.0" fill="#808080" style="font-size:12px">0-15</text>
+<path d="M -2788,-1262 L -2792,-1262 L -2792,-1218 L -2788,-1218 Z" stroke="#000000" stroke-width="4.0" fill="#000000" fill-opacity="1.0"/>
 <circle cx="-2780.0" cy="-1260.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-<circle cx="-2800.0" cy="-1220.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="-2780.0" cy="-1220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-2800.0" cy="-1260.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
 <path d="M -2740,-1360 L -2726,-1352 L -2726,-1368 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -845,11 +845,6 @@
 <circle cx="-2740.0" cy="-1320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -2440,-1200 L -2454,-1208 L -2454,-1192 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-2459.0" y="-1193.25" fill="#808080" style="font-size:18px">Clock</text>
-<circle cx="-2440.0" cy="-1200.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
 <path d="M -2440,-1240 L -2454,-1248 L -2454,-1232 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
 <text text-anchor="end" x="-2459.0" y="-1233.25" fill="#808080" style="font-size:18px">Clear</text>
 <circle cx="-2440.0" cy="-1240.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
@@ -858,11 +853,6 @@
 <path d="M -2440,-1280 L -2454,-1288 L -2454,-1272 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
 <text text-anchor="end" x="-2459.0" y="-1273.25" fill="#808080" style="font-size:18px">Dec</text>
 <circle cx="-2440.0" cy="-1280.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M -2440,-1320 L -2454,-1328 L -2454,-1312 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-2459.0" y="-1313.25" fill="#808080" style="font-size:18px">Inc</text>
-<circle cx="-2440.0" cy="-1320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M -2440,-1360 L -2454,-1368 L -2454,-1352 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -995,14 +985,14 @@
 <circle cx="-2560.0" cy="-1020.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -3120,-20 L -3134,-28 L -3134,-12 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-3139.0" y="-13.25" fill="#808080" style="font-size:18px">Reg-L</text>
-<circle cx="-3120.0" cy="-20.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<path d="M -3120,-60 L -3134,-68 L -3134,-52 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-3139.0" y="-53.25" fill="#808080" style="font-size:18px">Reg-L</text>
+<circle cx="-3120.0" cy="-60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -2320,-20 L -2334,-28 L -2334,-12 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-2339.0" y="-13.25" fill="#808080" style="font-size:18px">Reg-H</text>
-<circle cx="-2320.0" cy="-20.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<path d="M -2320,-60 L -2334,-68 L -2334,-52 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-2339.0" y="-53.25" fill="#808080" style="font-size:18px">Reg-H</text>
+<circle cx="-2320.0" cy="-60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M -3120,-620 L -3134,-628 L -3134,-612 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -1015,22 +1005,22 @@
 <circle cx="-2320.0" cy="-620.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<text text-anchor="start" x="-3058.0" y="-8.0" fill="#808080" style="font-size:12px">0-3</text>
-<text text-anchor="start" x="-3058.0" y="-48.0" fill="#808080" style="font-size:12px">4-7</text>
-<text text-anchor="end" x="-3082.0" y="-8.0" fill="#808080" style="font-size:12px">0-7</text>
-<path d="M -3068,-18 L -3072,-18 L -3072,-62 L -3068,-62 Z" stroke="#000000" stroke-width="4.0" fill="#000000" fill-opacity="1.0"/>
-<circle cx="-3060.0" cy="-20.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<text text-anchor="start" x="-3058.0" y="-63.0" fill="#808080" style="font-size:12px">0-3</text>
+<text text-anchor="start" x="-3058.0" y="-23.0" fill="#808080" style="font-size:12px">4-7</text>
+<text text-anchor="end" x="-3082.0" y="-63.0" fill="#808080" style="font-size:12px">0-7</text>
+<path d="M -3068,-62 L -3072,-62 L -3072,-18 L -3068,-18 Z" stroke="#000000" stroke-width="4.0" fill="#000000" fill-opacity="1.0"/>
 <circle cx="-3060.0" cy="-60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-<circle cx="-3080.0" cy="-20.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="-3060.0" cy="-20.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-3080.0" cy="-60.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
-<text text-anchor="start" x="-2258.0" y="-8.0" fill="#808080" style="font-size:12px">0-3</text>
-<text text-anchor="start" x="-2258.0" y="-48.0" fill="#808080" style="font-size:12px">4-7</text>
-<text text-anchor="end" x="-2282.0" y="-8.0" fill="#808080" style="font-size:12px">0-7</text>
-<path d="M -2268,-18 L -2272,-18 L -2272,-62 L -2268,-62 Z" stroke="#000000" stroke-width="4.0" fill="#000000" fill-opacity="1.0"/>
-<circle cx="-2260.0" cy="-20.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<text text-anchor="start" x="-2258.0" y="-63.0" fill="#808080" style="font-size:12px">0-3</text>
+<text text-anchor="start" x="-2258.0" y="-23.0" fill="#808080" style="font-size:12px">4-7</text>
+<text text-anchor="end" x="-2282.0" y="-63.0" fill="#808080" style="font-size:12px">0-7</text>
+<path d="M -2268,-62 L -2272,-62 L -2272,-18 L -2268,-18 Z" stroke="#000000" stroke-width="4.0" fill="#000000" fill-opacity="1.0"/>
 <circle cx="-2260.0" cy="-60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-<circle cx="-2280.0" cy="-20.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="-2260.0" cy="-20.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-2280.0" cy="-60.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
 <path d="M -2740,-260 L -2726,-252 L -2726,-268 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -1399,6 +1389,16 @@
 <circle cx="-2420.0" cy="-1360.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 <circle cx="-2420.0" cy="-1400.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 <circle cx="-2420.0" cy="-1440.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -2460,-1200 L -2474,-1208 L -2474,-1192 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-2479.0" y="-1193.25" fill="#808080" style="font-size:18px">Clock</text>
+<circle cx="-2460.0" cy="-1200.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -2460,-1320 L -2474,-1328 L -2474,-1312 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-2479.0" y="-1313.25" fill="#808080" style="font-size:18px">Inc</text>
+<circle cx="-2460.0" cy="-1320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 </g>
 </svg>

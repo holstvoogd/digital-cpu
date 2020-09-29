@@ -4,8 +4,5 @@ Based on James Sharman's work here: https://www.youtube.com/playlist?list=PLFhc0
 
 I have removed all LEDs and driver latches.
 
-TODO:
-- Pipeline ROM programming
-- ALU LUT configuration
-- Clock & Reset
-- Break (what even is it?)
+Should be (close?) to working now. Want to implement a display to properly test it!
+All subsystems have been implemented and seem to work correctly; Primes demo runs, albeit hard to see if it is working correctly without a display :)

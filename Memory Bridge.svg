@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Digital by H.Neemann -->
-<!-- created: Sat Sep 19 18:09:39 CEST 2020 -->
+<!-- created: Tue Sep 29 17:59:25 CEST 2020 -->
 
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -34,7 +34,6 @@
 <path d="M 840,620 L 860,620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 560,620 L 580,620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 420,620 L 440,620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 500,240 L 540,240" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 860,180 L 900,180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 980,500 L 1000,500" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 840,500 L 860,500" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -46,6 +45,7 @@
 <path d="M 420,660 L 440,660" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 440,220 L 480,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 860,220 L 900,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 500,220 L 540,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 980,380 L 1000,380 L 1000,360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 560,380 L 580,380 L 580,360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 420,380 L 440,380" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -58,10 +58,6 @@
 <path d="M 840,700 L 860,700" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 560,700 L 580,700" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 420,700 L 440,700" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 410,760 L 430,760" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 570,400 L 590,400" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 830,760 L 850,760" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 990,400 L 1010,400" stroke="#000000" stroke-width="6.0" fill="none"/>
 <path d="M 580,460 L 590,460 L 600,460" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M 580,500 L 590,500" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M 580,540 L 590,540" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -100,6 +96,10 @@
 <path d="M 500,240 L 490,240" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M 500,260 L 490,260" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M 500,280 L 490,280" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 410,760 L 430,760" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 570,400 L 590,400" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 830,760 L 850,760" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 990,400 L 1010,400" stroke="#000000" stroke-width="6.0" fill="none"/>
 <g>
 </g>
 <g>
@@ -406,14 +406,14 @@
 <circle cx="500.0" cy="280.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
-<path d="M 540,240 L 554,248 L 554,232 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="559.0" y="246.75" fill="#808080" style="font-size:18px">MemBridge-Assert</text>
-<circle cx="540.0" cy="240.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
 <path d="M 540,260 L 554,268 L 554,252 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
 <text text-anchor="start" x="559.0" y="266.75" fill="#808080" style="font-size:18px">MemBridge-Dir</text>
 <circle cx="540.0" cy="260.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 540,220 L 554,228 L 554,212 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="559.0" y="226.75" fill="#808080" style="font-size:18px">MemBridge-Assert</text>
+<circle cx="540.0" cy="220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 </g>
 </svg>
