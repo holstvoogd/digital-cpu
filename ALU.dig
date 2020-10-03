@@ -52,7 +52,7 @@
           <string>LHSBus</string>
         </entry>
       </elementAttributes>
-      <pos x="380" y="840"/>
+      <pos x="380" y="900"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -62,7 +62,7 @@
           <string>RHSBus</string>
         </entry>
       </elementAttributes>
-      <pos x="380" y="900"/>
+      <pos x="380" y="840"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -80,7 +80,7 @@
           <intFormat>dec</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="340" y="900"/>
+      <pos x="340" y="840"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -98,7 +98,7 @@
           <intFormat>dec</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="340" y="840"/>
+      <pos x="340" y="900"/>
     </visualElement>
     <visualElement>
       <elementName>74574.dig</elementName>

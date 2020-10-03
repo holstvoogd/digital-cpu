@@ -535,6 +535,38 @@
       </elementAttributes>
       <pos x="140" y="-20"/>
     </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Reg</string>
+        </entry>
+      </elementAttributes>
+      <pos x="300" y="800"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>I</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
+        </entry>
+      </elementAttributes>
+      <pos x="300" y="840"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -968,6 +1000,10 @@
     <wire>
       <p1 x="420" y="140"/>
       <p2 x="420" y="160"/>
+    </wire>
+    <wire>
+      <p1 x="300" y="800"/>
+      <p2 x="300" y="840"/>
     </wire>
   </wires>
   <measurementOrdering/>

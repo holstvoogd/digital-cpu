@@ -1192,6 +1192,78 @@
       </elementAttributes>
       <pos x="-2460" y="-1320"/>
     </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>I</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
+        </entry>
+      </elementAttributes>
+      <pos x="-2220" y="-1260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Splitter</elementName>
+      <elementAttributes>
+        <entry>
+          <string>mirror</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>splitterSpreading</string>
+          <int>2</int>
+        </entry>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Input Splitting</string>
+          <string>8,8</string>
+        </entry>
+        <entry>
+          <string>Output Splitting</string>
+          <string>16</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-2220" y="-1300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Reg-L</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-2220" y="-1340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Reg-H</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-2180" y="-1340"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -1895,6 +1967,10 @@
       <p2 x="-2180" y="-120"/>
     </wire>
     <wire>
+      <p1 x="-2180" y="-1340"/>
+      <p2 x="-2180" y="-1300"/>
+    </wire>
+    <wire>
       <p1 x="-1540" y="-480"/>
       <p2 x="-1540" y="-460"/>
     </wire>
@@ -2045,6 +2121,14 @@
     <wire>
       <p1 x="-2220" y="-100"/>
       <p2 x="-2220" y="-60"/>
+    </wire>
+    <wire>
+      <p1 x="-2220" y="-1340"/>
+      <p2 x="-2220" y="-1300"/>
+    </wire>
+    <wire>
+      <p1 x="-2220" y="-1280"/>
+      <p2 x="-2220" y="-1260"/>
     </wire>
     <wire>
       <p1 x="-2540" y="-180"/>

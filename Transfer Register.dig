@@ -1764,7 +1764,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Control</string>
+          <string>C</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -1794,6 +1794,78 @@
         </entry>
       </elementAttributes>
       <pos x="300" y="100"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>I</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
+        </entry>
+      </elementAttributes>
+      <pos x="960" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Splitter</elementName>
+      <elementAttributes>
+        <entry>
+          <string>mirror</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>splitterSpreading</string>
+          <int>2</int>
+        </entry>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Input Splitting</string>
+          <string>8,8</string>
+        </entry>
+        <entry>
+          <string>Output Splitting</string>
+          <string>16</string>
+        </entry>
+      </elementAttributes>
+      <pos x="960" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Reg-L</string>
+        </entry>
+      </elementAttributes>
+      <pos x="960" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Reg-H</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1000" y="220"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -3202,6 +3274,14 @@
       <p2 x="960" y="2020"/>
     </wire>
     <wire>
+      <p1 x="960" y="220"/>
+      <p2 x="960" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="280"/>
+      <p2 x="960" y="300"/>
+    </wire>
+    <wire>
       <p1 x="320" y="1980"/>
       <p2 x="320" y="2020"/>
     </wire>
@@ -3388,6 +3468,10 @@
     <wire>
       <p1 x="1000" y="1620"/>
       <p2 x="1000" y="1820"/>
+    </wire>
+    <wire>
+      <p1 x="1000" y="220"/>
+      <p2 x="1000" y="260"/>
     </wire>
     <wire>
       <p1 x="360" y="1620"/>
