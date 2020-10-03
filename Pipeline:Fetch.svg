@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Digital by H.Neemann -->
-<!-- created: Sun Sep 20 15:02:05 CEST 2020 -->
+<!-- created: Sat Oct 03 17:30:35 CEST 2020 -->
 
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -9,6 +9,42 @@
    height="203.85mm"
    viewBox="-201 -298 1218 1359">
 <g stroke-linecap="square">
+<path d="M 80,80 L 90,80 L 100,80" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 100,120 L 90,120" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 100,160 L 90,160" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 100,200 L 90,200" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 100,240 L 90,240" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 100,280 L 90,280" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 100,320 L 90,320" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 100,360 L 90,360" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 300,14 L 300,20" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,-60 L 850,-60 L 860,-60" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,20 L 850,20" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,100 L 850,100" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,180 L 850,180" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,260 L 850,260" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,340 L 850,340" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,420 L 850,420" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,500 L 850,500" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 500,-106 L 500,-100" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 500,54 L 500,60" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 500,214 L 500,220" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 500,374 L 500,380" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 600,920 L 600,910 L 600,900" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 560,900 L 560,910" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,700 L 850,700 L 860,700" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 840,680 L 850,680" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 440,600 L 450,600 L 460,600" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 460,620 L 450,620" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 460,640 L 450,640" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 500,534 L 500,540" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 130,420 L 150,420" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 130,60 L 150,60" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 820,-10 L 820,-30" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 820,150 L 820,130" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 820,310 L 820,290" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 820,470 L 820,450" stroke="#000000" stroke-width="6.0" fill="none"/>
+<path d="M 820,630 L 820,610" stroke="#000000" stroke-width="6.0" fill="none"/>
 <path d="M 100,320 L 140,320 L 160,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 280,320 L 380,320 L 380,420 L 620,420 L 620,400" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 140,240 L 140,260 L 440,260 L 440,280 L 740,280 L 740,240" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -102,42 +138,6 @@
 <path d="M 540,80 L 540,140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 540,240 L 540,300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 540,400 L 540,460" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 80,80 L 90,80 L 100,80" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 100,120 L 90,120" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 100,160 L 90,160" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 100,200 L 90,200" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 100,240 L 90,240" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 100,280 L 90,280" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 100,320 L 90,320" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 100,360 L 90,360" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 300,14 L 300,20" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,-60 L 850,-60 L 860,-60" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,20 L 850,20" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,100 L 850,100" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,180 L 850,180" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,260 L 850,260" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,340 L 850,340" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,420 L 850,420" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,500 L 850,500" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 500,-106 L 500,-100" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 500,54 L 500,60" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 500,214 L 500,220" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 500,374 L 500,380" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 600,920 L 600,910 L 600,900" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 560,900 L 560,910" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,700 L 850,700 L 860,700" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 840,680 L 850,680" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 440,600 L 450,600 L 460,600" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 460,620 L 450,620" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 460,640 L 450,640" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 500,534 L 500,540" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 130,420 L 150,420" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 130,60 L 150,60" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 820,-10 L 820,-30" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 820,150 L 820,130" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 820,310 L 820,290" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 820,470 L 820,450" stroke="#000000" stroke-width="6.0" fill="none"/>
-<path d="M 820,630 L 820,610" stroke="#000000" stroke-width="6.0" fill="none"/>
 <g>
 <circle cx="140.0" cy="320.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="140.0" cy="200.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
@@ -628,12 +628,6 @@
 <circle cx="160.0" cy="-100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M 231,-85 L 201,-85 L 201,-115 L 231,-115 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<circle cx="216.0" cy="-100.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
-<text text-anchor="start" x="245.0" y="-91.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">PCRA</tspan></text>
-<circle cx="200.0" cy="-100.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
-</g>
-<g>
 <path d="M 900,700 L 914,708 L 914,692 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
 <text text-anchor="start" x="919.0" y="706.75" fill="#808080" style="font-size:18px">ControlOut</text>
 <circle cx="900.0" cy="700.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
@@ -706,6 +700,12 @@
 <g>
 <path d="M 490,544 L 500,531 L 510,544" stroke="#000000" stroke-width="4.0" fill="none"/>
 <circle cx="500.0" cy="540.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="216.0" cy="-100.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="216.0" cy="-100.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="start" x="245.0" y="-91.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">PCRA</tspan></text>
+<circle cx="200.0" cy="-100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 </g>
 </svg>
