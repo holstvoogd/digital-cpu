@@ -137,7 +137,7 @@
           <string>Load</string>
         </entry>
       </elementAttributes>
-      <pos x="700" y="120"/>
+      <pos x="700" y="80"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -465,6 +465,10 @@
       <p2 x="660" y="80"/>
     </wire>
     <wire>
+      <p1 x="680" y="80"/>
+      <p2 x="700" y="80"/>
+    </wire>
+    <wire>
       <p1 x="980" y="400"/>
       <p2 x="1000" y="400"/>
     </wire>
@@ -527,10 +531,6 @@
     <wire>
       <p1 x="1560" y="340"/>
       <p2 x="1580" y="340"/>
-    </wire>
-    <wire>
-      <p1 x="680" y="120"/>
-      <p2 x="700" y="120"/>
     </wire>
     <wire>
       <p1 x="980" y="440"/>

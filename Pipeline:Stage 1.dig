@@ -846,8 +846,8 @@
       <elementAttributes>
         <entry>
           <string>Description</string>
-          <string>0-2: Assert Xfer 0-2
-3-6: Load Xfer Dec 0-3</string>
+          <string>000xxxx: Assert Xfer 0-2
+xxx0000: Load Xfer Dec 0-3</string>
         </entry>
         <entry>
           <string>rotation</string>

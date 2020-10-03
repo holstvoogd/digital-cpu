@@ -45,34 +45,34 @@
         <entry>
           <string>Description</string>
           <string>Assert:
-xxxx000: -
-xxxx001: PCRA0
-xxxx010: PCRA1
-xxxx011: SP
-xxxx100: SI
-xxxx101: DI
-xxxx110: TX
-xxxx111: TX mode
+000xxxx: -
+001xxxx: PCRA0
+010xxxx: PCRA1
+011xxxx: SP
+100xxxx: SI
+101xxxx: DI
+110xxxx: TX
+111xxxx: TX mode
 
 Load:
-0000xxx: -
-0001xxx: PCRA0
-0010xxx: PCRA1
-0011xxx: SP
-0100xxx: SI
-0101xxx: DI
-0110xxx: TX
-0111xxx: -
-1000xxx: Const LoadMem
+xxx0000: -
+xxx0001: PCRA0
+xxx0010: PCRA1
+xxx0011: SP
+xxx0100: SI
+xxx0101: DI
+xxx0110: TX
+xxx0111: -
+xxx1000: Const LoadMem
 
 Dec:
-1001xxx: PCRA0
-1010xxx: PCRA1
-1011xxx: SP
-1100xxx: SI
-1101xxx: DI
-1110xxx: -
-1111xxx: -</string>
+x1001: PCRA0
+x1010: PCRA1
+x1011: SP
+x1100: SI
+x1101: DI
+x1110: -
+x1111: -</string>
         </entry>
         <entry>
           <string>rotation</string>
@@ -665,10 +665,6 @@ xx11: -
       <elementName>Splitter</elementName>
       <elementAttributes>
         <entry>
-          <string>mirror</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
@@ -678,10 +674,10 @@ xx11: -
         </entry>
         <entry>
           <string>Output Splitting</string>
-          <string>3,4</string>
+          <string>4,3</string>
         </entry>
       </elementAttributes>
-      <pos x="40" y="-260"/>
+      <pos x="60" y="-260"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -695,7 +691,7 @@ xx11: -
           <string>Xfer</string>
         </entry>
       </elementAttributes>
-      <pos x="40" y="-280"/>
+      <pos x="60" y="-280"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3041,10 +3037,6 @@ xx11: -
       <p2 x="-680" y="380"/>
     </wire>
     <wire>
-      <p1 x="40" y="-280"/>
-      <p2 x="40" y="-260"/>
-    </wire>
-    <wire>
       <p1 x="40" y="-240"/>
       <p2 x="40" y="-220"/>
     </wire>
@@ -3199,6 +3191,10 @@ xx11: -
     <wire>
       <p1 x="-60" y="-640"/>
       <p2 x="-60" y="-620"/>
+    </wire>
+    <wire>
+      <p1 x="60" y="-280"/>
+      <p2 x="60" y="-260"/>
     </wire>
     <wire>
       <p1 x="60" y="-240"/>
