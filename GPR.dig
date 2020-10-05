@@ -417,6 +417,10 @@
           <string>Bits</string>
           <int>4</int>
         </entry>
+        <entry>
+          <string>InDefault</string>
+          <value v="15" z="false"/>
+        </entry>
       </elementAttributes>
       <pos x="100" y="-20"/>
     </visualElement>
