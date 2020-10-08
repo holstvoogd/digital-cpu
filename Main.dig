@@ -11,9 +11,8 @@
       <storedRoms>
         <entry>
           <string>ROM</string>
-          <data>0,5,1,6,0,29,5,31,6,0,27,5,14,6,0,5c,0,2a,5f,60,2a,72,76,77,0,0,0,5,24,6,0,29,5,2b,
-6,0,5b,fc,5f,65,39,5f,71,7d,7c,78,29,5e,0,48,65,6c,6c,6f,20,57,6f,72,6c,64,21,5c,
-6e</data>
+          <data>0,5,2f,6,0,27,5,14,6,0,5c,0,0,0,5,1,6,0,5f,60,2a,72,76,77,0,5,22,6,0,29,5,29,6,0,
+5b,fc,5f,65,39,5f,71,7d,7c,78,29,5e,0,48,65,6c,6c,6f,20,57,6f,72,6c,64,21,a</data>
         </entry>
         <entry>
           <string>Stage 1-B</string>
@@ -4270,10 +4269,6 @@ d0,d5,da,df,74,78,7c,71,79,7d,72,76,7e,73,77,7b,a0,a5,aa,af</data>
       <elementName>Clock</elementName>
       <elementAttributes>
         <entry>
-          <string>runRealTime</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>rotation</string>
           <rotation rotation="2"/>
         </entry>
@@ -4283,7 +4278,7 @@ d0,d5,da,df,74,78,7c,71,79,7d,72,76,7e,73,77,7b,a0,a5,aa,af</data>
         </entry>
         <entry>
           <string>Frequency</string>
-          <int>10</int>
+          <int>100</int>
         </entry>
       </elementAttributes>
       <pos x="1400" y="-640"/>
