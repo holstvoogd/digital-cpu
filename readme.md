@@ -2,7 +2,13 @@ Work in progress!!
 
 Based on James Sharman's work here: https://www.youtube.com/playlist?list=PLFhc0MFC8MiCDOh3cGFji3qQfXziB9yOw
 
-I have removed all LEDs and driver latches.
+Build using Digital: https://github.com/hneemann/Digital
 
-Should be (close?) to working now. Want to implement a display to properly test it!
-All subsystems have been implemented and seem to work correctly; Primes demo runs, albeit hard to see if it is working correctly without a display :)
+I have removed all LEDs and driver latches; nested modules don't show LEDs anyway. Added a bunch of probes instead.
+
+Status:
+ - Added a 'terminal' and a `termData` register +  `mov termData,a`
+ - Implemented the `lods` operation
+ - Implemented everything except a reset circuit
+ - `ret` might be broken, a jmp after a call fails; I suspect the PCRA flip might be to slow or just not working
+ - Does print Hello World once though! (:
