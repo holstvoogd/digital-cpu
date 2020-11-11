@@ -344,21 +344,21 @@
           <string>Dev Assert</string>
         </entry>
       </elementAttributes>
-      <pos x="1280" y="-840"/>
+      <pos x="1280" y="-820"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
       <elementAttributes>
         <entry>
           <string>Input Splitting</string>
-          <string>1*7</string>
+          <string>1*6</string>
         </entry>
         <entry>
           <string>Output Splitting</string>
-          <string>7</string>
+          <string>6</string>
         </entry>
       </elementAttributes>
-      <pos x="1240" y="-860"/>
+      <pos x="1240" y="-840"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -1546,6 +1546,49 @@ xx11: -
       </elementAttributes>
       <pos x="1160" y="-300"/>
     </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Alu Assert</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1240" y="-1500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>0: ALU
+1-6: Assert Dev 9-14</string>
+        </entry>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Alu Assert</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1240" y="-1520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>Alu Assert</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1240" y="-860"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -1989,6 +2032,10 @@ xx11: -
       <p2 x="1520" y="-840"/>
     </wire>
     <wire>
+      <p1 x="1260" y="-840"/>
+      <p2 x="1280" y="-840"/>
+    </wire>
+    <wire>
       <p1 x="860" y="-460"/>
       <p2 x="880" y="-460"/>
     </wire>
@@ -2075,10 +2122,6 @@ xx11: -
     <wire>
       <p1 x="680" y="-860"/>
       <p2 x="840" y="-860"/>
-    </wire>
-    <wire>
-      <p1 x="1260" y="-860"/>
-      <p2 x="1280" y="-860"/>
     </wire>
     <wire>
       <p1 x="1220" y="-860"/>
@@ -2265,8 +2308,8 @@ xx11: -
       <p2 x="1280" y="-480"/>
     </wire>
     <wire>
-      <p1 x="1280" y="-860"/>
-      <p2 x="1280" y="-840"/>
+      <p1 x="1280" y="-840"/>
+      <p2 x="1280" y="-820"/>
     </wire>
     <wire>
       <p1 x="640" y="-1160"/>
@@ -2407,6 +2450,10 @@ xx11: -
     <wire>
       <p1 x="1240" y="-380"/>
       <p2 x="1240" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1240" y="-1520"/>
+      <p2 x="1240" y="-1500"/>
     </wire>
     <wire>
       <p1 x="800" y="-640"/>
