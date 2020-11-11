@@ -179,25 +179,11 @@
       </elementAttributes>
       <pos x="-800" y="1240"/>
     </visualElement>
-    <visualElement>
-      <elementName>Not</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="2"/>
-        </entry>
-      </elementAttributes>
-      <pos x="-580" y="1040"/>
-    </visualElement>
   </visualElements>
   <wires>
     <wire>
-      <p1 x="-580" y="1040"/>
-      <p2 x="-560" y="1040"/>
-    </wire>
-    <wire>
       <p1 x="-640" y="1040"/>
-      <p2 x="-620" y="1040"/>
+      <p2 x="-560" y="1040"/>
     </wire>
     <wire>
       <p1 x="-920" y="1040"/>

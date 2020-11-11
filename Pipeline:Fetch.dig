@@ -55,7 +55,7 @@
           <intFormat>bin</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="20" y="1380"/>
+      <pos x="-20" y="1380"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -111,7 +111,7 @@
           <int>8</int>
         </entry>
       </elementAttributes>
-      <pos x="0" y="1300"/>
+      <pos x="-40" y="1220"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -167,7 +167,7 @@
           <rotation rotation="1"/>
         </entry>
       </elementAttributes>
-      <pos x="-200" y="1360"/>
+      <pos x="-220" y="1360"/>
     </visualElement>
     <visualElement>
       <elementName>Ground</elementName>
@@ -206,20 +206,6 @@
         </entry>
         <entry>
           <string>Input Splitting</string>
-          <string>2</string>
-        </entry>
-        <entry>
-          <string>Output Splitting</string>
-          <string>1,1</string>
-        </entry>
-      </elementAttributes>
-      <pos x="-240" y="1480"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Splitter</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Input Splitting</string>
           <string>1,1</string>
         </entry>
         <entry>
@@ -244,36 +230,26 @@
       <pos x="-260" y="1420"/>
     </visualElement>
     <visualElement>
-      <elementName>Delay</elementName>
+      <elementName>Splitter</elementName>
       <elementAttributes>
         <entry>
-          <string>Bits</string>
-          <int>2</int>
+          <string>mirror</string>
+          <boolean>true</boolean>
         </entry>
-        <entry>
-          <string>delayTime</string>
-          <int>2</int>
-        </entry>
-      </elementAttributes>
-      <pos x="-140" y="1460"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Delay</elementName>
-      <elementAttributes>
         <entry>
           <string>rotation</string>
           <rotation rotation="2"/>
         </entry>
         <entry>
-          <string>Bits</string>
-          <int>2</int>
+          <string>Input Splitting</string>
+          <string>2</string>
         </entry>
         <entry>
-          <string>delayTime</string>
-          <int>2</int>
+          <string>Output Splitting</string>
+          <string>1,1</string>
         </entry>
       </elementAttributes>
-      <pos x="20" y="1380"/>
+      <pos x="-80" y="1400"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -283,7 +259,15 @@
     </wire>
     <wire>
       <p1 x="-240" y="1440"/>
-      <p2 x="-200" y="1440"/>
+      <p2 x="-220" y="1440"/>
+    </wire>
+    <wire>
+      <p1 x="-200" y="1440"/>
+      <p2 x="-180" y="1440"/>
+    </wire>
+    <wire>
+      <p1 x="-220" y="1360"/>
+      <p2 x="-200" y="1360"/>
     </wire>
     <wire>
       <p1 x="-80" y="1380"/>
@@ -298,16 +282,12 @@
       <p2 x="-100" y="1300"/>
     </wire>
     <wire>
-      <p1 x="-200" y="1460"/>
-      <p2 x="-180" y="1460"/>
-    </wire>
-    <wire>
       <p1 x="-160" y="1460"/>
-      <p2 x="-140" y="1460"/>
+      <p2 x="-40" y="1460"/>
     </wire>
     <wire>
-      <p1 x="-100" y="1460"/>
-      <p2 x="-40" y="1460"/>
+      <p1 x="-220" y="1460"/>
+      <p2 x="-180" y="1460"/>
     </wire>
     <wire>
       <p1 x="-220" y="1320"/>
@@ -319,11 +299,15 @@
     </wire>
     <wire>
       <p1 x="-60" y="1320"/>
-      <p2 x="0" y="1320"/>
+      <p2 x="-40" y="1320"/>
     </wire>
     <wire>
-      <p1 x="-220" y="1480"/>
-      <p2 x="-180" y="1480"/>
+      <p1 x="-200" y="1420"/>
+      <p2 x="-100" y="1420"/>
+    </wire>
+    <wire>
+      <p1 x="-280" y="1420"/>
+      <p2 x="-260" y="1420"/>
     </wire>
     <wire>
       <p1 x="-40" y="1340"/>
@@ -342,28 +326,24 @@
       <p2 x="-220" y="1260"/>
     </wire>
     <wire>
-      <p1 x="-280" y="1420"/>
-      <p2 x="-260" y="1420"/>
-    </wire>
-    <wire>
-      <p1 x="-240" y="1500"/>
-      <p2 x="-80" y="1500"/>
-    </wire>
-    <wire>
-      <p1 x="0" y="1300"/>
-      <p2 x="0" y="1320"/>
+      <p1 x="-40" y="1220"/>
+      <p2 x="-40" y="1320"/>
     </wire>
     <wire>
       <p1 x="-40" y="1340"/>
       <p2 x="-40" y="1460"/>
     </wire>
     <wire>
-      <p1 x="-200" y="1440"/>
-      <p2 x="-200" y="1460"/>
-    </wire>
-    <wire>
       <p1 x="-280" y="1300"/>
       <p2 x="-280" y="1420"/>
+    </wire>
+    <wire>
+      <p1 x="-200" y="1420"/>
+      <p2 x="-200" y="1440"/>
+    </wire>
+    <wire>
+      <p1 x="-220" y="1440"/>
+      <p2 x="-220" y="1460"/>
     </wire>
     <wire>
       <p1 x="-220" y="1260"/>
@@ -379,11 +359,7 @@
     </wire>
     <wire>
       <p1 x="-80" y="1380"/>
-      <p2 x="-80" y="1500"/>
-    </wire>
-    <wire>
-      <p1 x="-240" y="1480"/>
-      <p2 x="-240" y="1500"/>
+      <p2 x="-80" y="1400"/>
     </wire>
   </wires>
   <measurementOrdering/>

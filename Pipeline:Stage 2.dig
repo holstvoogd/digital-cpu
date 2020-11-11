@@ -70,7 +70,7 @@
           <int>8</int>
         </entry>
       </elementAttributes>
-      <pos x="320" y="1280"/>
+      <pos x="320" y="1120"/>
     </visualElement>
     <visualElement>
       <elementName>Register</elementName>
@@ -341,10 +341,6 @@
       <p2 x="400" y="900"/>
     </wire>
     <wire>
-      <p1 x="380" y="980"/>
-      <p2 x="500" y="980"/>
-    </wire>
-    <wire>
       <p1 x="460" y="920"/>
       <p2 x="480" y="920"/>
     </wire>
@@ -354,7 +350,7 @@
     </wire>
     <wire>
       <p1 x="260" y="1080"/>
-      <p2 x="380" y="1080"/>
+      <p2 x="500" y="1080"/>
     </wire>
     <wire>
       <p1 x="660" y="1100"/>
@@ -394,7 +390,7 @@
     </wire>
     <wire>
       <p1 x="320" y="1040"/>
-      <p2 x="320" y="1280"/>
+      <p2 x="320" y="1120"/>
     </wire>
     <wire>
       <p1 x="320" y="900"/>
@@ -402,11 +398,7 @@
     </wire>
     <wire>
       <p1 x="500" y="940"/>
-      <p2 x="500" y="980"/>
-    </wire>
-    <wire>
-      <p1 x="380" y="980"/>
-      <p2 x="380" y="1080"/>
+      <p2 x="500" y="1080"/>
     </wire>
   </wires>
   <measurementOrdering/>

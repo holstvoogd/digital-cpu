@@ -24,7 +24,7 @@
           <string>PipeIn</string>
         </entry>
       </elementAttributes>
-      <pos x="-500" y="2680"/>
+      <pos x="-520" y="2720"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -68,7 +68,7 @@
           <int>2</int>
         </entry>
       </elementAttributes>
-      <pos x="-160" y="2560"/>
+      <pos x="-160" y="2640"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -86,7 +86,7 @@
           <int>8</int>
         </entry>
       </elementAttributes>
-      <pos x="-320" y="2560"/>
+      <pos x="-340" y="2580"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -142,21 +142,7 @@
           <int>8</int>
         </entry>
       </elementAttributes>
-      <pos x="-540" y="2720"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="2"/>
-        </entry>
-        <entry>
-          <string>NetName</string>
-          <string>ControlIn</string>
-        </entry>
-      </elementAttributes>
-      <pos x="-200" y="2560"/>
+      <pos x="-540" y="2740"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -244,7 +230,7 @@ xxx0000: Load Xfer Dec 0-3</string>
           <int>8</int>
         </entry>
       </elementAttributes>
-      <pos x="-460" y="2640"/>
+      <pos x="-420" y="2640"/>
     </visualElement>
     <visualElement>
       <elementName>Register</elementName>
@@ -311,19 +297,14 @@ xxx0000: Load Xfer Dec 0-3</string>
       <pos x="-380" y="2360"/>
     </visualElement>
     <visualElement>
-      <elementName>PullDown</elementName>
+      <elementName>NAnd</elementName>
       <elementAttributes>
         <entry>
-          <string>Bits</string>
-          <int>8</int>
+          <string>rotation</string>
+          <rotation rotation="2"/>
         </entry>
       </elementAttributes>
-      <pos x="-320" y="2680"/>
-    </visualElement>
-    <visualElement>
-      <elementName>NAnd</elementName>
-      <elementAttributes/>
-      <pos x="-460" y="2560"/>
+      <pos x="-220" y="2640"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -348,25 +329,15 @@ xxx0000: Load Xfer Dec 0-3</string>
       <pos x="-540" y="2480"/>
     </visualElement>
     <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation reference="../../../../visualElement[8]/elementAttributes/entry/rotation"/>
-        </entry>
-        <entry>
-          <string>NetName</string>
-          <string>ControlIn</string>
-        </entry>
-      </elementAttributes>
-      <pos x="-680" y="2560"/>
-    </visualElement>
-    <visualElement>
       <elementName>Splitter</elementName>
       <elementAttributes>
         <entry>
           <string>splitterSpreading</string>
           <int>2</int>
+        </entry>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>Input Splitting</string>
@@ -377,7 +348,7 @@ xxx0000: Load Xfer Dec 0-3</string>
           <string>1,1</string>
         </entry>
       </elementAttributes>
-      <pos x="-520" y="2560"/>
+      <pos x="-180" y="2640"/>
     </visualElement>
     <visualElement>
       <elementName>VDD</elementName>
@@ -394,7 +365,7 @@ xxx0000: Load Xfer Dec 0-3</string>
       <elementAttributes>
         <entry>
           <string>rotation</string>
-          <rotation reference="../../../../visualElement[23]/elementAttributes/entry/rotation"/>
+          <rotation reference="../../../../visualElement[20]/elementAttributes/entry/rotation"/>
         </entry>
       </elementAttributes>
       <pos x="-460" y="2500"/>
@@ -404,7 +375,7 @@ xxx0000: Load Xfer Dec 0-3</string>
       <elementAttributes>
         <entry>
           <string>rotation</string>
-          <rotation reference="../../../../visualElement[23]/elementAttributes/entry/rotation"/>
+          <rotation reference="../../../../visualElement[20]/elementAttributes/entry/rotation"/>
         </entry>
       </elementAttributes>
       <pos x="-460" y="2380"/>
@@ -414,34 +385,42 @@ xxx0000: Load Xfer Dec 0-3</string>
       <elementAttributes>
         <entry>
           <string>rotation</string>
-          <rotation reference="../../../../visualElement[23]/elementAttributes/entry/rotation"/>
+          <rotation reference="../../../../visualElement[20]/elementAttributes/entry/rotation"/>
         </entry>
       </elementAttributes>
-      <pos x="-460" y="2680"/>
+      <pos x="-420" y="2680"/>
     </visualElement>
     <visualElement>
       <elementName>Driver</elementName>
       <elementAttributes>
         <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
           <string>Bits</string>
           <int>8</int>
         </entry>
+        <entry>
+          <string>flipSelPos</string>
+          <boolean>true</boolean>
+        </entry>
       </elementAttributes>
-      <pos x="-360" y="2660"/>
+      <pos x="-340" y="2620"/>
     </visualElement>
   </visualElements>
   <wires>
     <wire>
-      <p1 x="-680" y="2560"/>
-      <p2 x="-520" y="2560"/>
+      <p1 x="-540" y="2720"/>
+      <p2 x="-520" y="2720"/>
     </wire>
     <wire>
-      <p1 x="-200" y="2560"/>
-      <p2 x="-160" y="2560"/>
+      <p1 x="-480" y="2660"/>
+      <p2 x="-420" y="2660"/>
     </wire>
     <wire>
-      <p1 x="-500" y="2560"/>
-      <p2 x="-460" y="2560"/>
+      <p1 x="-360" y="2660"/>
+      <p2 x="-340" y="2660"/>
     </wire>
     <wire>
       <p1 x="-200" y="2500"/>
@@ -452,20 +431,8 @@ xxx0000: Load Xfer Dec 0-3</string>
       <p2 x="-460" y="2340"/>
     </wire>
     <wire>
-      <p1 x="-400" y="2660"/>
-      <p2 x="-380" y="2660"/>
-    </wire>
-    <wire>
-      <p1 x="-340" y="2660"/>
-      <p2 x="-320" y="2660"/>
-    </wire>
-    <wire>
-      <p1 x="-480" y="2660"/>
-      <p2 x="-460" y="2660"/>
-    </wire>
-    <wire>
-      <p1 x="-500" y="2600"/>
-      <p2 x="-460" y="2600"/>
+      <p1 x="-220" y="2600"/>
+      <p2 x="-200" y="2600"/>
     </wire>
     <wire>
       <p1 x="-200" y="2380"/>
@@ -480,8 +447,16 @@ xxx0000: Load Xfer Dec 0-3</string>
       <p2 x="-320" y="2380"/>
     </wire>
     <wire>
+      <p1 x="-220" y="2640"/>
+      <p2 x="-200" y="2640"/>
+    </wire>
+    <wire>
+      <p1 x="-180" y="2640"/>
+      <p2 x="-160" y="2640"/>
+    </wire>
+    <wire>
       <p1 x="-540" y="2640"/>
-      <p2 x="-460" y="2640"/>
+      <p2 x="-420" y="2640"/>
     </wire>
     <wire>
       <p1 x="-600" y="2480"/>
@@ -492,20 +467,16 @@ xxx0000: Load Xfer Dec 0-3</string>
       <p2 x="-380" y="2480"/>
     </wire>
     <wire>
-      <p1 x="-380" y="2580"/>
-      <p2 x="-360" y="2580"/>
-    </wire>
-    <wire>
       <p1 x="-200" y="2420"/>
       <p2 x="-160" y="2420"/>
     </wire>
     <wire>
-      <p1 x="-480" y="2420"/>
-      <p2 x="-360" y="2420"/>
-    </wire>
-    <wire>
       <p1 x="-600" y="2520"/>
       <p2 x="-480" y="2520"/>
+    </wire>
+    <wire>
+      <p1 x="-480" y="2520"/>
+      <p2 x="-360" y="2520"/>
     </wire>
     <wire>
       <p1 x="-400" y="2360"/>
@@ -516,8 +487,8 @@ xxx0000: Load Xfer Dec 0-3</string>
       <p2 x="-320" y="2360"/>
     </wire>
     <wire>
-      <p1 x="-540" y="2680"/>
-      <p2 x="-500" y="2680"/>
+      <p1 x="-320" y="2620"/>
+      <p2 x="-300" y="2620"/>
     </wire>
     <wire>
       <p1 x="-540" y="2460"/>
@@ -528,12 +499,16 @@ xxx0000: Load Xfer Dec 0-3</string>
       <p2 x="-160" y="2460"/>
     </wire>
     <wire>
-      <p1 x="-360" y="2380"/>
-      <p2 x="-360" y="2420"/>
+      <p1 x="-340" y="2640"/>
+      <p2 x="-340" y="2660"/>
     </wire>
     <wire>
-      <p1 x="-360" y="2580"/>
-      <p2 x="-360" y="2640"/>
+      <p1 x="-340" y="2580"/>
+      <p2 x="-340" y="2600"/>
+    </wire>
+    <wire>
+      <p1 x="-360" y="2380"/>
+      <p2 x="-360" y="2520"/>
     </wire>
     <wire>
       <p1 x="-540" y="2340"/>
@@ -544,28 +519,16 @@ xxx0000: Load Xfer Dec 0-3</string>
       <p2 x="-540" y="2640"/>
     </wire>
     <wire>
+      <p1 x="-540" y="2720"/>
+      <p2 x="-540" y="2740"/>
+    </wire>
+    <wire>
       <p1 x="-540" y="2640"/>
-      <p2 x="-540" y="2680"/>
-    </wire>
-    <wire>
-      <p1 x="-540" y="2680"/>
       <p2 x="-540" y="2720"/>
-    </wire>
-    <wire>
-      <p1 x="-480" y="2420"/>
-      <p2 x="-480" y="2520"/>
     </wire>
     <wire>
       <p1 x="-480" y="2520"/>
       <p2 x="-480" y="2660"/>
-    </wire>
-    <wire>
-      <p1 x="-320" y="2560"/>
-      <p2 x="-320" y="2660"/>
-    </wire>
-    <wire>
-      <p1 x="-320" y="2660"/>
-      <p2 x="-320" y="2680"/>
     </wire>
   </wires>
   <measurementOrdering/>
