@@ -22,7 +22,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>D</string>
+          <string>Data</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -36,7 +36,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>C</string>
+          <string>Clock</string>
         </entry>
       </elementAttributes>
       <pos x="760" y="300"/>
